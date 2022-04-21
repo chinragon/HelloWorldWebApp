@@ -1,0 +1,8 @@
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.csproj.AssemblyReference.cache
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.AssemblyInfoInputs.cache
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.AssemblyInfo.cs
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.csproj.CoreCompileInputs.cache
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.RazorAssemblyInfo.cache
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\obj\Debug\net5.0\HelloWorldApp.Web.RazorAssemblyInfo.cs
