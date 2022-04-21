@@ -1,0 +1,7 @@
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\HelloWorldApp.Web.exe
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\appsettings.Development.json
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\appsettings.json
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\HelloWorldApp.Web.dll
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\HelloWorldApp.Web.deps.json
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\HelloWorldApp.Web.runtimeconfig.json
+D:\VSProjects\HelloWorldApp\HelloWorldApp.Web\bin\release\net6.0\publish\HelloWorldApp.Web.pdb
